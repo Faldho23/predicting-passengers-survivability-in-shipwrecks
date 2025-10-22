@@ -9,7 +9,7 @@ overall survival rates.
 Follow these steps to set up and run the project:
 ## Step 1: Extract the Zipped Folder
 
-## Folder Structure
+### Folder Structure
 
 After extraction, you will find two main folders:
 
@@ -20,10 +20,10 @@ After extraction, you will find two main folders:
 
 Navigate to the `src` folder and open `disaster_svm_logreg_classification.ipynb`.
 
-## Running the Code
+### Running the Code
 
 (Optional) Run all the cells in the Jupyter notebook to generate the results.
 
-## Model Saving (Optional)
+### Model Saving (Optional)
 
 Towards the end of the code file, you'll find a commented cell explaining how to save the model if necessary.
